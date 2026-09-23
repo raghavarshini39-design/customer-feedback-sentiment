@@ -1,5 +1,10 @@
 # Customer Feedback Sentiment
 
+**Intern ID:** CITS8924  
+**Full Name:** CHINTAGINJALA RAGHA VARSHINI  
+**No. of Weeks:** 6 Weeks  
+**Project Name:** Customer Feedback Sentiment Analysis
+
 ## CODTECH Task 3
 This project analyzes customer feedback and classifies each review as **Positive, Neutral, or Negative**.
 
