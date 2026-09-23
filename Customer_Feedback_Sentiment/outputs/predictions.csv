@@ -1,0 +1,29 @@
+feedback,actual_sentiment,predicted_sentiment
+the product does not match the description,Negative,Negative
+the app keeps crashing and is difficult to use i would prefer an improvement before using it again,Negative,Negative
+the website provides the necessary information,Neutral,Neutral
+my order was cancelled without a clear reason,Negative,Negative
+the service was average overall it was an ordinary experience overall,Neutral,Neutral
+the product works but there is nothing special about it it was an ordinary experience overall,Neutral,Neutral
+customer support answered but the solution was basic it was an ordinary experience overall,Neutral,Neutral
+the checkout process was smooth,Positive,Positive
+the product feels cheap and unreliable,Negative,Negative
+the service was rude and unhelpful,Negative,Negative
+everything worked as expected i would consider using the service again,Positive,Positive
+fast shipping and a good product i would consider using the service again,Positive,Positive
+the website is confusing and slow,Negative,Negative
+my order arrived on time and the packaging was neat i would consider using the service again,Positive,Positive
+it meets my basic requirements it was an ordinary experience overall,Neutral,Neutral
+customer support solved my issue quickly i would consider using the service again,Positive,Positive
+the app has useful features but also some issues,Neutral,Positive
+fast shipping and a good product,Positive,Positive
+i am satisfied with the purchase,Positive,Positive
+i had a frustrating experience with support,Negative,Neutral
+the interface is clean and simple i would consider using the service again,Positive,Positive
+i am unhappy with this purchase i would prefer an improvement before using it again,Negative,Negative
+i had a frustrating experience with support i would prefer an improvement before using it again,Negative,Negative
+the quality is poor for the price,Negative,Negative
+the packaging was standard it was an ordinary experience overall,Neutral,Neutral
+good quality for the price i would buy again i would consider using the service again,Positive,Positive
+the quality is impressive for this price i would consider using the service again,Positive,Positive
+the quality is average for the price,Neutral,Positive

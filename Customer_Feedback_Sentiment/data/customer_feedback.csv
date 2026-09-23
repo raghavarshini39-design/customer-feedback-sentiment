@@ -1,0 +1,111 @@
+review_id,feedback,sentiment
+1,The delivery was fast and the product quality was excellent.,Positive
+2,The delivery was fast and the product quality was excellent. I would consider using the service again.,Positive
+3,Very happy with the service. The support team was helpful.,Positive
+4,Very happy with the service. The support team was helpful. I would consider using the service again.,Positive
+5,The app is easy to use and works smoothly.,Positive
+6,The app is easy to use and works smoothly. I would consider using the service again.,Positive
+7,Good quality for the price. I would buy again.,Positive
+8,Good quality for the price. I would buy again. I would consider using the service again.,Positive
+9,My order arrived on time and the packaging was neat.,Positive
+10,My order arrived on time and the packaging was neat. I would consider using the service again.,Positive
+11,The product exceeded my expectations.,Positive
+12,The product exceeded my expectations. I would consider using the service again.,Positive
+13,Customer support solved my issue quickly.,Positive
+14,Customer support solved my issue quickly. I would consider using the service again.,Positive
+15,I am satisfied with the purchase.,Positive
+16,I am satisfied with the purchase. I would consider using the service again.,Positive
+17,The interface is clean and simple.,Positive
+18,The interface is clean and simple. I would consider using the service again.,Positive
+19,Great experience from start to finish.,Positive
+20,Great experience from start to finish. I would consider using the service again.,Positive
+21,The item looks good and performs well.,Positive
+22,The item looks good and performs well. I would consider using the service again.,Positive
+23,The service was quick and professional.,Positive
+24,The service was quick and professional. I would consider using the service again.,Positive
+25,Everything worked as expected.,Positive
+26,Everything worked as expected. I would consider using the service again.,Positive
+27,The product is reliable and useful.,Positive
+28,The product is reliable and useful. I would consider using the service again.,Positive
+29,I received excellent assistance from the team.,Positive
+30,I received excellent assistance from the team. I would consider using the service again.,Positive
+31,The checkout process was smooth.,Positive
+32,The checkout process was smooth. I would consider using the service again.,Positive
+33,The quality is impressive for this price.,Positive
+34,The quality is impressive for this price. I would consider using the service again.,Positive
+35,Fast shipping and a good product.,Positive
+36,Fast shipping and a good product. I would consider using the service again.,Positive
+37,I really like the design and usability.,Positive
+38,I really like the design and usability. I would consider using the service again.,Positive
+39,The replacement process was easy and convenient.,Positive
+40,The replacement process was easy and convenient. I would consider using the service again.,Positive
+41,The order arrived late and the box was damaged.,Negative
+42,The order arrived late and the box was damaged. I would prefer an improvement before using it again.,Negative
+43,Very disappointed with the product quality.,Negative
+44,Very disappointed with the product quality. I would prefer an improvement before using it again.,Negative
+45,Customer support did not solve my problem.,Negative
+46,Customer support did not solve my problem. I would prefer an improvement before using it again.,Negative
+47,The app keeps crashing and is difficult to use.,Negative
+48,The app keeps crashing and is difficult to use. I would prefer an improvement before using it again.,Negative
+49,The item stopped working after a few days.,Negative
+50,The item stopped working after a few days. I would prefer an improvement before using it again.,Negative
+51,My order was cancelled without a clear reason.,Negative
+52,My order was cancelled without a clear reason. I would prefer an improvement before using it again.,Negative
+53,The delivery was extremely slow.,Negative
+54,The delivery was extremely slow. I would prefer an improvement before using it again.,Negative
+55,The product does not match the description.,Negative
+56,The product does not match the description. I would prefer an improvement before using it again.,Negative
+57,I received the wrong item.,Negative
+58,I received the wrong item. I would prefer an improvement before using it again.,Negative
+59,The website is confusing and slow.,Negative
+60,The website is confusing and slow. I would prefer an improvement before using it again.,Negative
+61,The quality is poor for the price.,Negative
+62,The quality is poor for the price. I would prefer an improvement before using it again.,Negative
+63,I had a frustrating experience with support.,Negative
+64,I had a frustrating experience with support. I would prefer an improvement before using it again.,Negative
+65,The payment failed several times.,Negative
+66,The payment failed several times. I would prefer an improvement before using it again.,Negative
+67,The packaging was damaged and the item was scratched.,Negative
+68,The packaging was damaged and the item was scratched. I would prefer an improvement before using it again.,Negative
+69,The product feels cheap and unreliable.,Negative
+70,The product feels cheap and unreliable. I would prefer an improvement before using it again.,Negative
+71,The return process took too long.,Negative
+72,The return process took too long. I would prefer an improvement before using it again.,Negative
+73,I am unhappy with this purchase.,Negative
+74,I am unhappy with this purchase. I would prefer an improvement before using it again.,Negative
+75,The instructions were unclear.,Negative
+76,The instructions were unclear. I would prefer an improvement before using it again.,Negative
+77,The service was rude and unhelpful.,Negative
+78,The service was rude and unhelpful. I would prefer an improvement before using it again.,Negative
+79,I would not recommend this product.,Negative
+80,I would not recommend this product. I would prefer an improvement before using it again.,Negative
+81,The delivery was okay but the product was average.,Neutral
+82,The delivery was okay but the product was average. It was an ordinary experience overall.,Neutral
+83,"The product works, but there is nothing special about it.",Neutral
+84,"The product works, but there is nothing special about it. It was an ordinary experience overall.",Neutral
+85,The service was acceptable.,Neutral
+86,The service was acceptable. It was an ordinary experience overall.,Neutral
+87,The quality is average for the price.,Neutral
+88,The quality is average for the price. It was an ordinary experience overall.,Neutral
+89,The app has useful features but also some issues.,Neutral
+90,The app has useful features but also some issues. It was an ordinary experience overall.,Neutral
+91,"The order arrived, and everything was as listed.",Neutral
+92,"The order arrived, and everything was as listed. It was an ordinary experience overall.",Neutral
+93,"Customer support answered, but the solution was basic.",Neutral
+94,"Customer support answered, but the solution was basic. It was an ordinary experience overall.",Neutral
+95,The design is simple and functional.,Neutral
+96,The design is simple and functional. It was an ordinary experience overall.,Neutral
+97,It meets my basic requirements.,Neutral
+98,It meets my basic requirements. It was an ordinary experience overall.,Neutral
+99,The experience was neither good nor bad.,Neutral
+100,The experience was neither good nor bad. It was an ordinary experience overall.,Neutral
+101,Delivery took a normal amount of time.,Neutral
+102,Delivery took a normal amount of time. It was an ordinary experience overall.,Neutral
+103,The product is fine for occasional use.,Neutral
+104,The product is fine for occasional use. It was an ordinary experience overall.,Neutral
+105,The website provides the necessary information.,Neutral
+106,The website provides the necessary information. It was an ordinary experience overall.,Neutral
+107,The packaging was standard.,Neutral
+108,The packaging was standard. It was an ordinary experience overall.,Neutral
+109,The service was average overall.,Neutral
+110,The service was average overall. It was an ordinary experience overall.,Neutral
